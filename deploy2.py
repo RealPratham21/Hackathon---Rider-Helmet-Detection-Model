@@ -3,6 +3,7 @@ import cv2
 import numpy as np
 import time
 from ultralytics import YOLO
+import tempfile
 
 # ---- App Configuration ----
 st.set_page_config(
