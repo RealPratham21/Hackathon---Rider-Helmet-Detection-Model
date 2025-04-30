@@ -2,3 +2,5 @@ streamlit==1.42.2
 opencv-python-headless==4.11.0.86
 numpy==2.1.1
 ultralytics==8.3.78
+cython==3.0.12
+lap==0.5.12
